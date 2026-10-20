@@ -1,15 +1,15 @@
 <div align="center">
 
   # Hi there, I'm Suman Kumar 👋
-  ### 🚀 Full-Stack Developer & Problem Solver | IIIT Manipur '27
+  ### 💻 Software & Systems Engineer | B.Tech ECE @ IIIT Manipur '27
 
   <p align="center">
-    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://linkedin.com/in/suman-kumar-7565a528b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:suma230102060@iiitmanipur.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Suman-2901"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="https://github.com/Suman-2901"><img src="https://img.shields.io/badge/GitHub-Suman--2901-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Full-Stack+Web+Developer;Building+Scalable+Backends;Python+%26+JavaScript+Enthusiast;Undergrad+at+IIIT+Manipur" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Software+%26+Systems+Engineer;B.Tech+ECE+at+IIIT+Manipur+(CGPA+8.07);C%2B%2B+%7C+Python+%7C+OpenCV+%7C+FastAPI+%7C+Node.js;Multi-Modal+Search+%26+Computer+Vision+Pipelines" alt="Typing SVG" />
 
 </div>
 
@@ -17,43 +17,51 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Undergraduate student at **Indian Institute of Information Technology, Manipur (IIIT Manipur)** (Class of 2027)
-- 💻 Passionate about **Full-Stack Web Development**, **Backend Architecture**, and **Automation Tooling**
-- 🛠️ Currently building robust web platforms, APIs, and real-world safety & search utilities
-- 🎯 Constantly learning modern frameworks, distributed systems, and cloud fundamentals
-- 💬 Ask me about **JavaScript, Node.js, Python, REST APIs, and Web Development**
-- ⚡ Fun fact: *I believe in writing clean, modular code that solves practical problems.*
+- 🎓 **Undergraduate Student** at **Indian Institute of Information Technology, Senapati (IIIT Manipur)** — B.Tech in Electronics & Communication Engineering (2023 – 2027, **CGPA: 8.07 / 10**)
+- ⚙️ **Core Focus**: Software/Systems Engineering, High-Performance Software Pipelines, Object-Oriented Design, Computer Vision, and Hardware-Software Integration
+- 🏛️ **Experience**: Collaborated with **Nagaland Police** on multiplatform application development, coordinating requirements with government stakeholders
+- 🎖️ **Leadership**: Elected **General Secretary (GS) Cultural** at IIIT Manipur — leading cross-functional event planning and campus coordination
+- 💡 **Passion**: Building reliable end-to-end systems with systematic debugging, benchmarking, and unit testing
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Technical Skills
 
 <div align="center">
 
-| Domain | Technologies & Tools |
+| Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> |
-| **Frontend** | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> |
-| **Backend & APIs** | <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white" /> |
-| **Databases** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> |
-| **Tools & Platforms** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> |
+| **Languages** | <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" /> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" /> |
+| **Applied & Frameworks** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" /> |
+| **Systems & Core CS** | `Operating Systems` `Data Structures & Algorithms` `Embedded Systems` `DSP Fundamentals` `VLSI Frontend` `Digital Circuits` |
+| **Databases** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> |
+| **Tools & Practices** | <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux%2FShell-FCC624?style=flat-square&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> |
 
 </div>
 
 ---
 
-### 🌟 Featured Projects
+### 🚀 Featured Engineering Projects
 
-| Project | Description | Stack | Link |
-| :--- | :--- | :--- | :---: |
-| 🛡️ **Tourist Safety** | A full-stack web platform designed to provide real-time safety, alerts, and emergency assistance for travelers. | `JavaScript` `Node.js` `Express` `Web` | [View Repo](https://github.com/Suman-2901/Tourist-Safety) |
-| 🔍 **MediaSearch** | A smart Python search utility for querying, organizing, and retrieving multimedia files efficiently. | `Python` `Data Processing` | [View Repo](https://github.com/Suman-2901/MediaSearch) |
-| ⚡ **App Backend & APIs** | Modular RESTful API services handling authentication, database interactions, and business logic. | `Node.js` `Express` `MongoDB/SQL` | [View Repo](https://github.com/Suman-2901/App_Backend) |
-| ✉️ **Outreach Automation** | Python automation tool to streamline personalized outreach workflows and email dispatching. | `Python` `Automation` `APIs` | [View Repo](https://github.com/Suman-2901/outreach-emails) |
+| Project | Key Highlights & Impact | Tech Stack |
+| :--- | :--- | :---: |
+| 🔍 **OmniSearch — Offline Semantic Search Engine** | Multi-modal offline retrieval pipeline using **BGE-M3/CLIP embeddings** + **hybrid vector/BM25 search**. Profiled bottlenecks to reduce file-retrieval time from **minutes to under 30 seconds**. | `Python` `Embeddings` `Vector Search` `BM25` |
+| 📑 **API for Document-Based Questioning** | End-to-end multi-stage pipeline for document ingestion, embedding generation, and contextual retrieval. Verified across **500+ test cases** achieving **90% accuracy** with systematic validation. | `C++` `Python` `System Design` `APIs` |
+| 📷 **Auto Attendance System (Web + OpenCV)** | Production-ready face-recognition attendance pipeline. Automated over **70% of manual attendance** workflows, slashing per-student verification time across entire classrooms. | `Python` `OpenCV` `Web` `Computer Vision` |
+| 📚 **Android App for Library Management** | Scalable library management application integrating **QR-code scanning** with the **OpenLibrary API**. Reduced checkout time by **80%** (from 10 mins to <20 secs) for **1,000+ users**. | `Java` `Android` `Git` `REST APIs` |
+| 🛡️ **Tourist Safety Platform** | Full-stack emergency assistance and travel alert platform with real-time location and alert dispatching capabilities. | `JavaScript` `Node.js` `Express` `APIs` |
 
 ---
 
-### 📊 GitHub Activity & Statistics
+### 🏆 Achievements & Co-Curriculars
+
+- 👮 **Nagaland Police Collaboration**: Partnered on multiplatform software applications, translating operational requirements into clean technical deliverables.
+- 🚁 **Embedded Systems & Robotics**: Completed hands-on Drone Workshop exploring embedded microcontrollers, hardware interfacing, and flight control systems.
+- 🏛️ **Student Government**: Elected **General Secretary (Cultural)** at IIIT Manipur, managing campus-wide festival logistics, technical planning, and budgeting.
+
+---
+
+### 📊 GitHub Activity & Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Suman-2901&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Suman's GitHub Stats" height="175" />
@@ -66,11 +74,15 @@
 
 ---
 
-### 🤝 Connect With Me
+### 📬 Connect With Me
 
 <p align="center">
+  <a href="https://linkedin.com/in/suman-kumar-7565a528b">
+    <img src="https://img.shields.io/badge/LinkedIn-Suman_Kumar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
   <a href="mailto:suma230102060@iiitmanipur.ac.in">
-    <img src="https://img.shields.io/badge/Email-suma230102060%40iiitmanipur.ac.in-red?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-suma230102060%40iiitmanipur.ac.in-D14836?style=flat-square&logo=gmail" alt="Email" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Suman-2901">
@@ -79,5 +91,5 @@
 </p>
 
 <div align="center">
-  <sub>⭐️ <i>Always open to collaborating on innovative ideas and open-source software!</i> ⭐️</sub>
+  <sub>⭐️ <i>Open to Software/Systems Engineering internships & high-impact technical collaborations!</i> ⭐️</sub>
 </div>
